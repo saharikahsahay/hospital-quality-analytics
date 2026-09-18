@@ -1,3 +1,9 @@
+## Interactive Dashboard
+
+### [View the Interactive Tableau Dashboard](https://public.tableau.com/views/U_S_HospitalQualityOperationsDashboard/U_S_HospitalQualityOperationsDashboard?:showVizHome=no)
+
+Explore U.S. hospital quality ratings interactively by state, hospital ownership, and emergency service availability.
+
 ## Data Source
 Data for this project comes from the Centers for Medicare & Medicaid Services (CMS) **Hospital General Information** dataset available through the CMS Provider Data Catalog.
 
