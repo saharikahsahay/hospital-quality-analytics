@@ -4,6 +4,8 @@
 
 Explore U.S. hospital quality ratings interactively by state, hospital ownership, and emergency service availability.
 
+![U.S. Hospital Quality & Operations Dashboard](hospital_quality_dashboard_final.png)
+
 ## Data Source
 Data for this project comes from the Centers for Medicare & Medicaid Services (CMS) **Hospital General Information** dataset available through the CMS Provider Data Catalog.
 
